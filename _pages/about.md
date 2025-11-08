@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: I am a PhD Student at <a href='https://www.chalmers.se/en/persons/eliasny/'>Chalmers University of Technology</a> in Gothenburg, Sweden, where I am supervised by <a href='https://gapindnns.github.io/members/Daniel_Persson.html'>Daniel Persson</a> and <a href='https://gapindnns.github.io/members/Jan_Gerken.html'>Jan Gerken</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: nyholm-profile.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Reach me at eliasny@chalmers.se!</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 4 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: true
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 ---
+My work lies at the intersection between geometric deep learning and mathematics.
+I am particularly interested in the role of **symmetries and equivariance/invariance** in machine learning models, both in the analysis of existing architectures and the design of novel ones.
+I have a background in theoretical physics where symmetries have a prominent role, and I would like to bring this perspective into machine learning.
+Symmetries in machine learning and physics are closely linked to group theory and representation theory in mathematics, and the study of invariant and equivariant spaces and functions has a long tradition in pure mathematics.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+You can find a complete list of my publications at [Google Scholar](https://scholar.google.com/citations?user=3rkaNgcAAAAJ&hl=en).
+You can also [click here for my CV (pdf)](/assets/pdf/academic-cv.pdf).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is supported by the Wallenberg AI, Autonomous Systems and Software Program (WASP).
+*Are you a WASP PhD student interested in what geometric deep learning can do for you and what you can do for geometric deep learning?
+I am organising the Geometric Deep Learning WASP Cluster where we discuss articles and exchange ideas related to geometric deep learning.
+If you're interested, contact me!*

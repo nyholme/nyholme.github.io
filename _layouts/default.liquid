@@ -17,8 +17,9 @@
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-    <!-- Header -->
-    {% include header.liquid %}
+	  <!-- Header -->
+	  <!-- here i removed the navbar. to get it back, uncomment the next line and put an open curly bracket in front of the first percentage sign -->
+    <!-- % include header.liquid %} --> 
 
     <!-- Content -->
     <div class="container mt-5" role="main">
