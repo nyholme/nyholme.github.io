@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a talk at the [Applied CATS seminar](https://www.kth.se/math/act/applied-cats-seminar-1.1419469) at KTH Royal Institute of Technology in Stockholm :crown:
+I gave a talk at the [Applied CATS seminar](https://www.kth.se/math/act/applied-cats-seminar-1.1419469) at KTH Royal Institute of Technology in Stockholm :crown:
