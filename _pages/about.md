@@ -26,7 +26,7 @@ announcements:
 ---
 My work lies at the intersection between geometric deep learning and mathematics.
 I am particularly interested in the role of **symmetries and equivariance/invariance** in machine learning models, both in the analysis of existing architectures and the design of novel ones.
-I have a background in theoretical physics where symmetries have a prominent role, and I would like to bring this perspective into machine learning.
+I have a background in theoretical physics where symmetries play a prominent role, and I would like to bring this perspective into machine learning.
 Symmetries in machine learning and physics are closely linked to group theory and representation theory in mathematics, and the study of invariant and equivariant spaces and functions has a long tradition in pure mathematics.
 
 You can find a complete list of my publications at [Google Scholar](https://scholar.google.com/citations?user=3rkaNgcAAAAJ&hl=en).
